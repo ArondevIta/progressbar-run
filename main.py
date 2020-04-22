@@ -36,7 +36,6 @@ while comecou:
         if total1 >= 40:
             print('jogador ' + nome_jogador1 + ' ganhou')
             print(total1)
-
             comecou = False
 
     elif jogador2:
@@ -54,6 +53,4 @@ while comecou:
         if total2 >= 40:
             print('jogador ' + nome_jogador2 + ' ganhou')
             print(total2)
-
             comecou = False
-
