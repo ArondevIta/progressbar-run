@@ -13,3 +13,5 @@ pip install -r requirements.txt
 # Run
 Para rodar entre na pasta do arquivo depois de instalado e rode o comando
 python -i main.py
+
+![corrida](https://user-images.githubusercontent.com/46222309/80103559-c9ec4480-854a-11ea-9865-9bce210c316a.jpg)
